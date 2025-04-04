@@ -3,20 +3,17 @@
 
 Welcome to a collection of beginner to intermediate-level **Python projects and assignments** that are perfect for anyone looking to improve their programming skills through hands-on practice.
 
-These 9 projects, along with structured homework tasks, cover core Python concepts like functions, loops, conditionals, dictionaries, and more. This repo is designed for **students, beginners, and self-learners** who want to master Python step-by-step.
-
+These 9 projects, along with structured homework tasks, cover core Python concepts like functions, loops, conditionals, dictionaries, and more. 
 ---
 
 ## 🧠 Projects Overview
 
 ### ✅ Project 1: Mad Libs Generator
-![Mad Libs](images/mad_libs.png)
 > A fun project where the user fills in the blanks to create a silly story.
 
 ---
 
 ### ✅ Project 2: Guess the Number (Computer Guesses)
-![Guess the Number](images/guess_number_computer.png)
 > A simple game where the computer tries to guess your number using logic.
 
 ---
@@ -28,37 +25,33 @@ These 9 projects, along with structured homework tasks, cover core Python concep
 ---
 
 ### ✅ Project 4: Rock, Paper, Scissors Game
-![RPS Game](images/rock_paper_scissors.png)
 > Classic game built using basic Python and random logic.
 
 ---
 
 ### ✅ Project 5: Hangman Game
-![Hangman](images/hangman.png)
 > A terminal-based word guessing game with a limited number of tries.
 
 ---
 
 ### ✅ Project 6: Countdown Timer
-![Timer](images/countdown_timer.png)
 > A Python timer that counts down from a specified time.
 
 ---
 
 ### ✅ Project 7: Password Generator
-![Password Generator](images/password_generator.png)
 > Generates strong and secure passwords using random characters.
 
 ---
 
 ### ✅ Project 8: Streamlit BMI Calculator (6-Minute App)
-![BMI App](images/bmi_calculator.png)
+link: https://bmi-calculatorpy.streamlit.app/
 > A web-based BMI calculator built with Streamlit.
 
 ---
 
-### ✅ Project 9: Build a Python Website in 15 Minutes with Streamlit
-![Website Project](images/python_website_streamlit.png)
+### ✅ Project 9: Build a Python Website in 15 Minutes with Streamlit (CSV-Excel-Data-Visualizer)
+link: https://csv-excel-data-visualizer-generatorpy.streamlit.app/
 > Create a quick personal website using the power of Streamlit.
 
 ---
@@ -96,21 +89,6 @@ This repo includes:
 - Python 3+
 - Streamlit (for web-based projects)
 - Git & GitHub (version control)
-
----
-
-## 🙌 Contribute or Practice
-
-Feel free to:
-- Fork this repo
-- Add your own projects
-- Update homework tasks
-- Suggest new project ideas!
-
----
-
-## 📸 Gallery (Optional)
-If you’d like to showcase completed projects or your versions, drop screenshots in the `images/` folder and add them here.
 
 ---
 
